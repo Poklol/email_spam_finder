@@ -172,9 +172,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **GitHub**: [Chando0185](https://github.com/Chando0185)
-- **Email**: your.email@example.com
+- **Author**: Charukesh.B
+- **GitHub**: https://github.com/Poklol
+- **Email**: charukesh.baskaran@gmail.com
 
 ---
 
