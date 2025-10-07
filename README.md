@@ -32,8 +32,8 @@ A comprehensive machine learning project that uses Natural Language Processing (
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Chando0185/Email_Spam_Classification.git
-   cd Email_Spam_Classification
+   https://github.com/Poklol/email_spam_finder.git
+   cd email_spam_finder
    ```
 
 2. **Create a virtual environment (recommended):**
